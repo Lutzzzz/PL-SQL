@@ -30,8 +30,3 @@ Essas tabelas devem ser configuradas corretamente para que as procedures e funç
 3. **Executar Procedures e Funções**:
    - Após executar o script de pacotes, você pode testar as funções e procedures usando os seguintes comandos SQL:
 
-### Exemplos de Execução
-
-#### 1. Listar Turmas por Professor:
-   ```sql
-   EXEC PKG_PROFESSOR.listar_total_turmas_por_professor;
